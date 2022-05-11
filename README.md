@@ -1,2 +1,2 @@
 # NetScanner
-A network scanner written in python 3.10.0
+Script performing local network scans written in python 3.10
